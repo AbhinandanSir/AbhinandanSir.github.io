@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-LIVE-WEBSITE-URL/sitemap.xml
+Sitemap: https://abhinandansir.github.io/sitemap.xml
